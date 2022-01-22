@@ -20,7 +20,7 @@
     "musicmetadata": "2.0.5",
     "mysql": "2.15.0",
     "mysql2": "1.5.2",
-    "nanoid": "1.0.1",
+    "nanoid": "3.1.31",
     "node-vibrant": "3.0.0",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
